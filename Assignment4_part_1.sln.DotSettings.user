@@ -1,0 +1,52 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003ABooleanAsserts_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003F_002Econfig_003FJetBrains_003FRider2025_002E2_003Fresharper_002Dhost_003FSourcesCache_003Fbfff78ecaa39c818519fc918bb2d4bbdca6ad93d7170f5cf325f67ccd0b97d43_003FBooleanAsserts_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0d004796_002D36e7_002D4f8d_002D9421_002Dbc0696ed2c22/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Category_Object_HasIdNameAndDescription #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::29625864-CFA8-41FC-B9FF-A8AA635470BE::net9.0::Assignment4Test.UnitTest1.Category_Object_HasIdNameAndDescription&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=29a584d9_002Dd256_002D44b2_002Db441_002Dde1deb125ccc/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Category_Object_HasIdNameAndDescription" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::29625864-CFA8-41FC-B9FF-A8AA635470BE::net9.0::Assignment4Test.UnitTest1.Category_Object_HasIdNameAndDescription&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=75c9cc03_002D95fa_002D4338_002Db71b_002D6be17cfb136d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Category_Object_HasIdNameAndDescription #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::29625864-CFA8-41FC-B9FF-A8AA635470BE::net9.0::Assignment4Test.UnitTest1.Category_Object_HasIdNameAndDescription&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ca7eb0f9_002Dac38_002D4b02_002D8711_002D4c1ab8bdc6eb/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Category_Object_HasIdNameAndDescription #5" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::29625864-CFA8-41FC-B9FF-A8AA635470BE::net9.0::Assignment4Test.UnitTest1.Category_Object_HasIdNameAndDescription&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::29625864-CFA8-41FC-B9FF-A8AA635470BE::net9.0::Assignment4Test.UnitTest1.GetAllCategories_NoArgument_ReturnsAllCategories&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::29625864-CFA8-41FC-B9FF-A8AA635470BE::net9.0::Assignment4Test.UnitTest1.GetCategory_ValidId_ReturnsCategoryObject&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::29625864-CFA8-41FC-B9FF-A8AA635470BE::net9.0::Assignment4Test.UnitTest1.CreateCategory_ValidData_CreteCategoryAndRetunsNewObject&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::29625864-CFA8-41FC-B9FF-A8AA635470BE::net9.0::Assignment4Test.UnitTest1.UpdateCategory_NewNameAndDescription_UpdateWithNewValues&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::29625864-CFA8-41FC-B9FF-A8AA635470BE::net9.0::Assignment4Test.UnitTest1.DeleteCategory_InvalidId_ReturnsFalse&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::29625864-CFA8-41FC-B9FF-A8AA635470BE::net9.0::Assignment4Test.UnitTest1.DeleteCategory_ValidId_RemoveTheCategory&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::29625864-CFA8-41FC-B9FF-A8AA635470BE::net9.0::Assignment4Test.UnitTest1.UpdateCategory_InvalidID_ReturnsFalse&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::29625864-CFA8-41FC-B9FF-A8AA635470BE::net9.0::Assignment4Test.UnitTest1.Product_Object_HasIdNameUnitPriceQuantityPerUnitAndUnitsInStock&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f1e1f471_002D3ccb_002D42a1_002D92e1_002D8603e7ec0683/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Category_Object_HasIdNameAndDescription #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::29625864-CFA8-41FC-B9FF-A8AA635470BE::net9.0::Assignment4Test.UnitTest1.Category_Object_HasIdNameAndDescription&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::29625864-CFA8-41FC-B9FF-A8AA635470BE::net9.0::Assignment4Test.UnitTest1.GetAllCategories_NoArgument_ReturnsAllCategories&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::29625864-CFA8-41FC-B9FF-A8AA635470BE::net9.0::Assignment4Test.UnitTest1.GetCategory_ValidId_ReturnsCategoryObject&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::29625864-CFA8-41FC-B9FF-A8AA635470BE::net9.0::Assignment4Test.UnitTest1.CreateCategory_ValidData_CreteCategoryAndRetunsNewObject&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::29625864-CFA8-41FC-B9FF-A8AA635470BE::net9.0::Assignment4Test.UnitTest1.DeleteCategory_ValidId_RemoveTheCategory&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::29625864-CFA8-41FC-B9FF-A8AA635470BE::net9.0::Assignment4Test.UnitTest1.DeleteCategory_InvalidId_ReturnsFalse&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::29625864-CFA8-41FC-B9FF-A8AA635470BE::net9.0::Assignment4Test.UnitTest1.UpdateCategory_NewNameAndDescription_UpdateWithNewValues&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::29625864-CFA8-41FC-B9FF-A8AA635470BE::net9.0::Assignment4Test.UnitTest1.UpdateCategory_InvalidID_ReturnsFalse&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::29625864-CFA8-41FC-B9FF-A8AA635470BE::net9.0::Assignment4Test.UnitTest1.Product_Object_HasIdNameUnitPriceQuantityPerUnitAndUnitsInStock&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::29625864-CFA8-41FC-B9FF-A8AA635470BE::net9.0::Assignment4Test.UnitTest1.GetProduct_ValidId_ReturnsProductWithCategory&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::29625864-CFA8-41FC-B9FF-A8AA635470BE::net9.0::Assignment4Test.UnitTest1.GetProduct_NameSubString_ReturnsProductsThatMachesTheSubString&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::29625864-CFA8-41FC-B9FF-A8AA635470BE::net9.0::Assignment4Test.UnitTest1.GetProductsByCategory_ValidId_ReturnsProductWithCategory&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::29625864-CFA8-41FC-B9FF-A8AA635470BE::net9.0::Assignment4Test.UnitTest1.Order_Object_HasIdDatesAndOrderDetails&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::29625864-CFA8-41FC-B9FF-A8AA635470BE::net9.0::Assignment4Test.UnitTest1.GetOrder_ValidId_ReturnsCompleteOrder&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::29625864-CFA8-41FC-B9FF-A8AA635470BE::net9.0::Assignment4Test.UnitTest1.GetOrders&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::29625864-CFA8-41FC-B9FF-A8AA635470BE::net9.0::Assignment4Test.UnitTest1.OrderDetails_Object_HasOrderProductUnitPriceQuantityAndDiscount&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::29625864-CFA8-41FC-B9FF-A8AA635470BE::net9.0::Assignment4Test.UnitTest1.GetOrderDetailByOrderId_ValidId_ReturnsProductNameUnitPriceAndQuantity&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::29625864-CFA8-41FC-B9FF-A8AA635470BE::net9.0::Assignment4Test.UnitTest1.GetOrderDetailByProductId_ValidId_ReturnsOrderDateUnitPriceAndQuantity&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

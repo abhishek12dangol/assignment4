@@ -1,0 +1,168 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/abhishek/RiderProjects/Assignment4_part_1/Assignment4Test/Assignment4Test.csproj": {}
+  },
+  "projects": {
+    "/home/abhishek/RiderProjects/Assignment4_part_1/Assignment4Test/Assignment4Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/abhishek/RiderProjects/Assignment4_part_1/Assignment4Test/Assignment4Test.csproj",
+        "projectName": "Assignment4Test",
+        "projectPath": "/home/abhishek/RiderProjects/Assignment4_part_1/Assignment4Test/Assignment4Test.csproj",
+        "packagesPath": "/home/abhishek/.nuget/packages/",
+        "outputPath": "/home/abhishek/RiderProjects/Assignment4_part_1/Assignment4Test/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/abhishek/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "/usr/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/home/abhishek/RiderProjects/Assignment4_part_1/Assignment4_part_1/Assignment4_part_1.csproj": {
+                "projectPath": "/home/abhishek/RiderProjects/Assignment4_part_1/Assignment4_part_1/Assignment4_part_1.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.12.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.9.3, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.304/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/abhishek/RiderProjects/Assignment4_part_1/Assignment4_part_1/Assignment4_part_1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/abhishek/RiderProjects/Assignment4_part_1/Assignment4_part_1/Assignment4_part_1.csproj",
+        "projectName": "Assignment4_part_1",
+        "projectPath": "/home/abhishek/RiderProjects/Assignment4_part_1/Assignment4_part_1/Assignment4_part_1.csproj",
+        "packagesPath": "/home/abhishek/.nuget/packages/",
+        "outputPath": "/home/abhishek/RiderProjects/Assignment4_part_1/Assignment4_part_1/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/abhishek/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "/usr/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.10, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.9.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.304/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
